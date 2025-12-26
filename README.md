@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sujit Manmode</h1>
-<h3 align="center">A passionate Quality Assurance Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Riya Ghodeswar</h1>
+<h3 align="center">A passionate Business Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya199831&label=Profile%20views&color=0e75b6&style=flat" alt="riya199831" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Krushi Store](https://www.krushistore.com/)
 
-- 🌱 I’m currently learning **API Automation**
+- 🌱 I’m currently learning **CI/CD Automation**
 
 - 👨‍💻 All of my projects are available at [https://riya199831.github.io/portfolio/](https://riya199831.github.io/portfolio/)
 
@@ -33,4 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya199831&show_icons=true&locale=en" alt="riya199831" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya199831&" alt="riya199831" /></p>
+
 
